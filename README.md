@@ -99,7 +99,7 @@
       <br><br>
       <hr style="border: 1px solid #3B4CCA; width: 80%;">
       <br>
-      [![Profile Views](https://komarev.com/ghpvc/?username=Ayburnt&color=3B4CCA&style=for-the-badge&label=TOTAL+VISITORS)](https://github.com/Ayburnt)
+      <a href="https://github.com/Ayburnt"><img src="https://komarev.com/ghpvc/?username=Ayburnt&color=3B4CCA&style=for-the-badge&label=TOTAL+VISITORS" alt="Profile Views" /></a>
     </td>
   </tr>
 </table>
