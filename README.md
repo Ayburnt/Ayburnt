@@ -1,78 +1,59 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&color=FBBF24&size=22&lines=ROUTE+101+-+TRAINER+PROFILE;WELCOME+TO+IVAN'S+LAB!" alt="Welcome Banner" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&color=3B82F6&size=20&lines=TRAINER+PROFILE;PROFESSIONAL+PORTFOLIO" alt="Professional Welcome Banner" />
 
-### 🎓 Computer Engineering Student | ⚡ Full-Stack Developer
+### **Mark Ivanbern Loque**
+**Computer Science Graduate & Full-Stack Developer**
 
-<img src="https://img.shields.io/badge/STATUS-PROFESSIONAL%20BUG%20CATCHER-brightgreen?style=for-the-badge&logo=Pokemon&logoColor=white" alt="Trainer Status" />
-<img src="https://img.shields.io/badge/REGION-PHILIPPINES-red?style=for-the-badge&logo=nintendo&logoColor=white" alt="Region" />
+<img src="https://img.shields.io/badge/CLASS-COMPUTER%20SCIENCE-blue?style=for-the-badge&logo=nintendo&logoColor=white" alt="Class" />
+<img src="https://img.shields.io/badge/SPECIALTY-FULL_STACK_%26_INFRASTRUCTURE-darkblue?style=for-the-badge&logo=Pokemon&logoColor=white" alt="Specialty" />
 
-<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/25.gif" alt="Pikachu" width="60"/> <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/150.gif" alt="Mewtwo" width="60"/> <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/133.gif" alt="Eevee" width="60"/>
-
----
-
-## 🎒 INVENTORY
-
-| [💾 ABOUT ME](#-about-me) | [🛠️ SKILL DEX](#️-skill-dex) | [⚔️ POKEDEX (PROJECTS)](#-pokedex-projects) | [📊 BADGE CASE](#-badge-case) |
-| :---: | :---: | :---: | :---: |
+</div>
 
 ---
 
-## 💾 ABOUT ME
+## 🎒 SYSTEM MENU
 
-* **Current Objective:** Leveling up in Computer Engineering at the Polytechnic University of the Philippines.
-* **Specialization:** Full-Stack Web Development, Network Engineering, and Cybersecurity.
-* **Passion:** Bridging hardware systems with modern software architecture.
-
-| Day Cycle | Location | Activity |
+| [💾 PROFESSIONAL SUMMARY](#-professional-summary) | [🛠️ TECHNICAL STACK](#️-technical-stack) | [📊 STATS & BADGES](#-stats-amp-badges) |
 | :---: | :---: | :---: |
-| ☀️ Morning | 🏫 University | Attending Lectures |
-| 🌙 Evening | 💻 Battlestation | Coding & Debugging |
-| ⚡ Anytime | 🌐 Cyberspace | Exploring New Tech |
 
 ---
 
-## 🛠️ SKILL DEX
+## 💾 PROFESSIONAL SUMMARY
+
+* **Academic Background:** Graduate of Cavite State University - Bacoor Campus with a degree in Computer Science.
+* **Technical Expertise:** Full-stack web application development, network engineering configuration, and infrastructure security.
+* **Core Focus:** Building resilient architectures that bridge systems with modern software solutions.
+
+---
+
+## 🛠️ TECHNICAL STACK
 
 <div align="center">
 
-### **Primary Moveset (Languages & Frameworks)**
+### **Languages & Frameworks**
 <br>
-<img src="https://skillicons.dev/icons?i=py,django,fastapi,react,tailwind,js,html,css" alt="Primary Skills" />
+<img src="https://skillicons.dev/icons?i=py,django,fastapi,react,tailwind,js,html,css" alt="Languages and Frameworks" />
 
-### **Technical HM/TMs (Tools & Infrastructure)**
+### **Tools, Infrastructure & Security**
 <br>
-<img src="https://skillicons.dev/icons?i=git,github,linux,kali,aws,vscode,postman,docker" alt="Secondary Skills" />
+<img src="https://skillicons.dev/icons?i=git,github,linux,kali,aws,vscode,postman,docker" alt="Tools and Infrastructure" />
 
 </div>
 
 ---
 
-## ⚔️ POKEDEX (PROJECTS)
-
-*Stats displayed are from active field research.*
-
-| Sprite | Project Title | Type | Region | Status |
-| :---: | :---: | :---: | :---: | :---: |
-| <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/373.gif" width="50"> | **Sari-Sari CRM** | 🐍 Python/⚛️ React | 🌐 Web | 🟢 Stable |
-| <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/113.gif" width="50"> | **Medi-Sync AI** | 🧠 AI/Mobile | 🏥 Health | 🟡 Beta |
-| <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/479.gif" width="50"> | **IoT Vermi-Reactor** | ⚙️ IoT/Hardware | 🌿 Agri-Tech | 🔵 Research |
-
----
-
-## 📊 BADGE CASE
-
-*Trainer Achievements unlocked on GitHub.*
+## 📊 STATS & BADGES
 
 <div align="center">
 
-### **Grass Badge** (Top Languages)
+### **Top Languages**
 <br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayburnt&layout=compact&theme=radical&hide_border=true&hide_title=true" alt="Top Languages" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayburnt&layout=compact&theme=github_dark&hide_border=true&hide_title=true" alt="Top Languages" />
 
-### **Thunder Badge** (Overall Stats)
+### **Developer Metrics**
 <br>
-<img src="https://github-readme-stats.vercel.app/api?username=Ayburnt&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=Ayburnt&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
 
 </div>
 
@@ -80,10 +61,10 @@
 
 <div align="center">
 
-### **PROFESSOR OAK'S MESSAGE**
+### **COMMUNICATION LOG**
 
-`"IVAN! There is a time and place for everything, but not now. Time to commit your code!"`
+`"A professional approach combined with technical readiness is the key to successful deployment."`
 
-<img src="https://img.shields.io/badge/PROFILE%20VIEWS-blueviolet?style=plastic&logo=gitbook&logoColor=white" alt="Profile Views" /> <img src="https://komarev.com/ghpvc/?username=Ayburnt&color=brightgreen&style=plastic" alt="View Counter" />
+<img src="https://komarev.com/ghpvc/?username=Ayburnt&color=blue&style=flat-square" alt="Profile View Counter" />
 
 </div>
