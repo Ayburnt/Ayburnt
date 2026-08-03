@@ -86,21 +86,20 @@
 
 ## <a id="save"></a>💾 『 SAVE GAME & CONNECT 』
 
-<div align="center">
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&color=3B4CCA&size=16&lines=Would+you+like+to+save+the+game?;Yes;;Saving...;Don't+turn+off+the+power.&center=true&width=550&height=50" alt="Save Prompt" />
-
-<br><br>
-
-<!-- 🚨 EDIT THESE LINKS WITH YOUR ACTUAL URLs 🚨 -->
-<a href="https://www.linkedin.com/in/markivanloque/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-
-<a href="[EMAIL_ADDRESS]"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-
-<a href="https://www.instagram.com/markivanloque/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"alt="Instagram" /></a>
-
-<br><br>
-
-[![Profile Views](https://komarev.com/ghpvc/?username=Ayburnt&color=FFCB05&style=for-the-badge&label=VISITORS)](https://github.com/Ayburnt)
-
-</div>
+<table align="center" style="border: 2px solid #555; border-radius: 10px; width: 100%;">
+  <tr>
+    <td align="center" style="padding: 20px;">
+      <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&color=FFCB05&size=16&lines=Would+you+like+to+save+the+game?;>+YES;Saving...;Don't+turn+off+the+power.;Mark+saved+the+game!&center=true&width=600&height=50" alt="Save Prompt" />
+      <br>
+      <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/master-ball.png" width="40" alt="Masterball" />
+      <br><br>
+      <a href="https://www.linkedin.com/in/markivanloque/"><img src="https://img.shields.io/badge/CONNECT_ON_LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;&nbsp;
+      <a href="mailto:[EMAIL_ADDRESS]"><img src="https://img.shields.io/badge/SEND_AN_EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>&nbsp;&nbsp;
+      <a href="https://www.instagram.com/markivanloque/"><img src="https://img.shields.io/badge/FOLLOW_ON_IG-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+      <br><br>
+      <hr style="border: 1px solid #3B4CCA; width: 80%;">
+      <br>
+      [![Profile Views](https://komarev.com/ghpvc/?username=Ayburnt&color=3B4CCA&style=for-the-badge&label=TOTAL+VISITORS)](https://github.com/Ayburnt)
+    </td>
+  </tr>
+</table>
