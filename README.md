@@ -41,7 +41,7 @@
       <b>Class:</b> Computer Science Graduate<br>
       <b>Region:</b> Cavite State University - Bacoor Campus<br>
       <hr style="border: 0.5px solid #3B4CCA;">
-      <b>Technical Expertise:</b> Full-stack web application development, network engineering configuration, and actively specializing in Cybersecurity.<br>
+      <b>Technical Expertise:</b> Full-stack web application development and actively specializing in Cybersecurity.<br>
       <b>Core Focus:</b> Building resilient architectures that bridge systems with modern software solutions.
     </td>
   </tr>
