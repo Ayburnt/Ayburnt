@@ -17,16 +17,16 @@
 
 <div align="center">
   <br>
-  <a href="#-trainer-card"><code>[ 🪪 TRAINER CARD ]</code></a> &nbsp;&nbsp; 
-  <a href="#-pokédex-tech-stack"><code>[ 🎒 POKÉDEX ]</code></a> &nbsp;&nbsp; 
-  <a href="#-trainer-stats"><code>[ 📊 TRAINER STATS ]</code></a> &nbsp;&nbsp; 
-  <a href="#-save-game--connect"><code>[ 💾 SAVE GAME ]</code></a>
+  <a href="#trainer-card"><code>[ 🪪 TRAINER CARD ]</code></a> &nbsp;&nbsp; 
+  <a href="#pokedex"><code>[ 🎒 POKÉDEX ]</code></a> &nbsp;&nbsp; 
+  <a href="#stats"><code>[ 📊 TRAINER STATS ]</code></a> &nbsp;&nbsp; 
+  <a href="#save"><code>[ 💾 SAVE GAME ]</code></a>
   <br><br>
 </div>
 
 ---
 
-## 🪪 『 TRAINER CARD 』
+## <a id="trainer-card"></a>🪪 『 TRAINER CARD 』
 
 <table align="center" style="width: 100%; border: 1px solid #555; border-radius: 10px;">
   <tr>
@@ -49,7 +49,7 @@
 
 ---
 
-## 🎒 『 POKÉDEX 』 (TECH STACK)
+## <a id="pokedex"></a>🎒 『 POKÉDEX 』 (TECH STACK)
 
 <p align="center"><i>The tools and technologies caught in the wild...</i></p>
 
@@ -74,16 +74,15 @@
 
 ---
 
-## 📊 『 TRAINER STATS 』
+## <a id="stats"></a>📊 『 TRAINER STATS 』
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayburnt&layout=compact&theme=github_dark&hide_border=true&hide_title=true" alt="Top Languages" />
-  <img src="https://github-readme-stats.vercel.app/api?username=Ayburnt&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ayburnt&theme=tokyonight&hide_border=true&ring=FFCB05&fire=FFCB05&currStreakNum=3B4CCA" alt="GitHub Streak Stats" />
 </div>
 
 ---
 
-## 💾 『 SAVE GAME & CONNECT 』
+## <a id="save"></a>💾 『 SAVE GAME & CONNECT 』
 
 <div align="center">
 
