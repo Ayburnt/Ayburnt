@@ -78,6 +78,8 @@
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ayburnt&theme=tokyonight&hide_border=true&ring=FFCB05&fire=FFCB05&currStreakNum=3B4CCA" alt="GitHub Streak Stats" />
+  <br><br>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ayburnt&theme=tokyo-night&hide_border=true&color=FFCB05&line=3B4CCA&point=FFCB05&bg_color=0d1117" alt="Activity Graph" width="100%" />
 </div>
 
 ---
@@ -88,7 +90,16 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&color=3B4CCA&size=16&lines=Would+you+like+to+save+the+game?;Yes;;Saving...;Don't+turn+off+the+power.&center=true&width=550&height=50" alt="Save Prompt" />
 
-<br>
+<br><br>
+
+<!-- 🚨 EDIT THESE LINKS WITH YOUR ACTUAL URLs 🚨 -->
+<a href="https://www.linkedin.com/in/markivanloque/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+
+<a href="[EMAIL_ADDRESS]"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+
+<a href="https://www.instagram.com/markivanloque/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"alt="Instagram" /></a>
+
+<br><br>
 
 [![Profile Views](https://komarev.com/ghpvc/?username=Ayburnt&color=FFCB05&style=for-the-badge&label=VISITORS)](https://github.com/Ayburnt)
 
