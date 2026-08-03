@@ -5,7 +5,7 @@
 **Computer Science Graduate & Full-Stack Developer**
 
 <img src="https://img.shields.io/badge/CLASS-COMPUTER%20SCIENCE-3B4CCA?style=for-the-badge&logo=nintendo&logoColor=white" alt="Class" />
-<img src="https://img.shields.io/badge/SPECIALTY-FULL_STACK_%26_INFRASTRUCTURE-CC0000?style=for-the-badge&logo=Pokemon&logoColor=white" alt="Specialty" />
+<img src="https://img.shields.io/badge/SPECIALTY-FULL_STACK_%26_CYBERSECURITY-CC0000?style=for-the-badge&logo=Pokemon&logoColor=white" alt="Specialty" />
 
 </div>
 
@@ -41,7 +41,7 @@
       <b>Class:</b> Computer Science Graduate<br>
       <b>Region:</b> Cavite State University - Bacoor Campus<br>
       <hr style="border: 0.5px solid #3B4CCA;">
-      <b>Technical Expertise:</b> Full-stack web application development, network engineering configuration, and infrastructure security.<br>
+      <b>Technical Expertise:</b> Full-stack web application development, network engineering configuration, and actively specializing in Cybersecurity.<br>
       <b>Core Focus:</b> Building resilient architectures that bridge systems with modern software solutions.
     </td>
   </tr>
